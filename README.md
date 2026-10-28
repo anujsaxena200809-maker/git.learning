@@ -1,2 +1,3 @@
 # git.learning
-Let’s explore Git and GitHub.
+<br>
+<b Let’s explore Git and GitHub.</b>
